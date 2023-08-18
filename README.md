@@ -1,4 +1,4 @@
-👋 Hello there! Here is a smol snek game for you, courtesy of [Platane/snk](https://github.com/Platane/snk).
+👋 Hello there! Here is a smol snek feeding on my GitHub contributions, courtesy of [Platane/snk](https://github.com/Platane/snk).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvitanov/dvitanov/output/github-contribution-grid-snake-dark.svg)"/>
